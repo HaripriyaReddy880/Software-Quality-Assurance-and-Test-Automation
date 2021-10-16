@@ -1,1 +1,3 @@
-
+JUnit is a unit testing framework for Java programming language. JUnit has been important in the development of test-driven development, and is one of a family of unit testing frameworks collectively known as xUnit, that originated with JUnit.
+Besides manual testing, JUnit is preferred equally for automation testing on the projects.
+Download the .jar files. Go to https://github.com/junit-team/junit/wiki/Download-and-Install and click the link for junit.jar. Find the row for the latest stable release then under the downloads column click 'jar' link. This will download a file junit-4.13.2.jar. Repeat this again and download the latest stable release for hamcrest: download hamcrest-core-1.3.jar
